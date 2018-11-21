@@ -1,1 +1,1 @@
-# telos-ipfs-relay
+# telos-ipfs-gateway

@@ -1,0 +1,24 @@
+{
+  "name": "telos-ipfs-relay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhexperiment/telos-ipfs-relay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhexperiment/telos-ipfs-relay/issues"
+  },
+  "homepage": "https://github.com/jhexperiment/telos-ipfs-relay#readme",
+  "dependencies": {
+    "demux": "^3.0.0",
+    "demux-eos": "^2.0.0",
+    "ipfs-api": "^26.1.2"
+  }
+}
